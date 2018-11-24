@@ -3,4 +3,5 @@
 Еще надо после установки python вызвать:
 
 pip install wget
+
 pip install pymystem3
